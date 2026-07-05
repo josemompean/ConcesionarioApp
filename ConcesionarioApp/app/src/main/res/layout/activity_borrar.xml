@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EB887D"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Spinner
+        android:id="@+id/spinnerMarcas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="@color/errorColor" />
+
+    <ListView
+        android:id="@+id/listViewCochesBorrar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@color/errorColor"
+        android:dividerHeight="1dp" />
+
+    <Button
+        android:id="@+id/btnVolverMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Volver al Menú"
+        android:backgroundTint="@color/errorColor"
+        android:textColor="@color/buttonTextColor"
+        android:padding="12dp"
+        android:layout_marginTop="16dp" />
+</LinearLayout>
+
+

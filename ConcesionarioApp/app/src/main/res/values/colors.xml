@@ -1,0 +1,19 @@
+<resources>
+    <!-- Tonos principales -->
+    <color name="colorPrimary">#1E88E5</color> <!-- Azul vivo -->
+    <color name="colorPrimaryDark">#1565C0</color> <!-- Azul oscuro -->
+    <color name="colorAccent">#FFC107</color> <!-- Amarillo vibrante -->
+
+    <!-- Fondo y texto -->
+    <color name="backgroundColor">#F9FAFB</color> <!-- Fondo muy claro -->
+    <color name="textColor">#2E3A59</color> <!-- Texto oscuro -->
+    <color name="textSecondary">#607D8B</color> <!-- Texto gris -->
+
+    <!-- Botones -->
+    <color name="buttonColor">#FF5722</color> <!-- Naranja vibrante -->
+    <color name="buttonTextColor">#FFFFFF</color> <!-- Blanco para texto en botones -->
+
+    <!-- Otros colores -->
+    <color name="errorColor">#D32F2F</color> <!-- Rojo para errores -->
+    <color name="successColor">#388E3C</color> <!-- Verde para éxito -->
+</resources>
